@@ -1,6 +1,7 @@
 # AutoPlayChromeDino
 
 First copy the code which is in DinoAutoPlay.js and then paste it into the Chrome console whenever you encounter The Dino i.e. when you're offline :`(
+
 If you're online and you still want to try this goto <a href="chrome://dino">chrome://dino</a>
 
 
