@@ -1,8 +1,9 @@
 const canvas = document.querySelector('canvas');
 const ctx = canvas.getContext('2d');
-var space = new KeyboardEvent('keydown', { 'keyCode': 32, 'which': 32 });
-var downdown = new KeyboardEvent('keydown', { 'keyCode': 40, 'which': 40 });
-var downup = new KeyboardEvent('keyup', { 'keyCode': 40, 'which': 40 });
+const space = new KeyboardEvent('keydown', { 'keyCode': 32, 'which': 32 });
+const downdown = new KeyboardEvent('keydown', { 'keyCode': 40, 'which': 40 });
+const downup = new KeyboardEvent('keyup', { 'keyCode': 40, 'which': 40 });
+
 document.dispatchEvent(space);
 
 function jumpobstruction() {
