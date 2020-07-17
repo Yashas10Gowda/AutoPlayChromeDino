@@ -4,7 +4,7 @@ First copy the code which is in DinoAutoPlay.js and then paste it into the Chrom
 
 If you're online and you still want to test this out, try searching for ` chrome://dino ` in the URL Input.
 
-This shall easily hit 2000 score mark, but it still has lot of room for improvement. 
+This shall easily hit 2000 score mark, but it still has got a lot of room for improvement. 
 
 
 ### Accessing Chrome Console :- 
